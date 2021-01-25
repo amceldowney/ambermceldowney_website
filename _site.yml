@@ -1,0 +1,13 @@
+name: "Amber's Website"
+title: "Amber's Website"
+description:
+ Have a wonderful day :)
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: amber.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
+

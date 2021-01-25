@@ -1,0 +1,15 @@
+---
+title: "Amber McEldowney"
+image: "ambermceldowney.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/ambermceldowney"
+  - label: GitHub
+    url: "https://github.com/amceldowney"
+  - label: Email
+    url: "mailto:amceldowney@ucsb.edu"
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+Hello! I am a first-year master's student at the Bren School of Eenvironmental Science and Management.
